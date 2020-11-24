@@ -1,0 +1,97 @@
+﻿textbox22,Textbox9
+generated on 27/10/2020 22:27:47 UTC,Data from: All sites
+
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+China,Western Pacific Region of WHO,Eastern Asia,2019,1,2018-12-31,2019-01-06,18742,18134,,4153,642,,1,4796,6,27,4,37,4833,4849,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,2,2019-01-07,2019-01-13,21516,21126,,6128,938,0,7,7073,7,44,15,66,7139,13988,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,3,2019-01-14,2019-01-20,22271,21809,,7144,1183,0,17,8344,2,62,18,82,8426,13387,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,4,2019-01-21,2019-01-27,22232,21729,,6519,1205,0,20,7744,1,75,12,88,7832,13905,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,5,2019-01-28,2019-02-03,19427,18874,,5093,1117,0,29,6239,3,73,27,103,6342,12530,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,6,2019-02-04,2019-02-10,14921,14569,,3021,883,0,1,3905,9,84,8,101,4006,10564,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,7,2019-02-11,2019-02-17,18486,18251,,3590,1098,0,0,4688,11,148,15,174,4862,13391,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,8,2019-02-18,2019-02-24,17908,17397,,2871,1083,0,0,3954,11,185,21,217,4171,13224,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,9,2019-02-25,2019-03-03,18088,17766,,2569,1414,0,5,3988,18,370,23,411,4399,13363,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,10,2019-03-04,2019-03-10,17968,17555,,2035,1570,0,0,3605,8,772,36,816,4421,13131,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,11,2019-03-11,2019-03-17,17770,17445,,1517,1597,0,1,3115,35,1280,34,1349,4464,13243,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,12,2019-03-18,2019-03-24,18288,17967,,1001,1312,0,2,2315,32,1742,39,1813,4128,13836,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,13,2019-03-25,2019-03-31,17707,17401,,633,1176,0,8,1817,41,2077,92,2210,4027,13372,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,14,2019-04-01,2019-04-07,11603,10532,,298,558,0,1,857,8,1053,62,1123,1980,8551,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,15,2019-04-08,2019-04-14,14405,14342,,238,584,0,0,822,25,1776,73,1874,2696,11644,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,16,2019-04-15,2019-04-21,13687,13561,,183,460,0,0,643,15,1702,70,1787,2430,11124,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,17,2019-04-22,2019-04-28,12517,12153,,118,398,0,2,518,16,1483,127,1626,2144,10006,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,18,2019-04-29,2019-05-05,11665,11411,,112,273,0,0,385,6,1073,131,1210,1595,9816,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,19,2019-05-06,2019-05-12,12744,12392,,79,229,0,0,308,11,1226,91,1328,1636,10751,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,20,2019-05-13,2019-05-19,12850,12829,,79,245,0,0,324,13,1236,202,1451,1775,11053,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,21,2019-05-20,2019-05-26,12613,12572,,94,232,0,0,326,7,1138,192,1337,1663,10905,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,22,2019-05-27,2019-06-02,11926,11716,,53,167,0,0,220,9,971,143,1123,1343,10364,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,23,2019-06-03,2019-06-09,11299,10967,,52,189,0,0,241,2,814,137,953,1194,9769,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,24,2019-06-10,2019-06-16,10673,9833,,74,187,0,0,261,0,426,173,599,860,8969,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,25,2019-06-17,2019-06-23,13195,12122,,120,216,0,0,336,6,625,152,783,1119,11001,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,26,2019-06-24,2019-06-30,12739,11927,,141,246,0,0,387,8,531,137,676,1063,10858,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,27,2019-07-01,2019-07-07,12075,11419,,163,259,0,0,422,7,446,168,621,1043,10373,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,28,2019-07-08,2019-07-14,12110,11450,,183,263,0,0,446,7,408,132,547,993,10450,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,29,2019-07-15,2019-07-21,12343,11635,,176,264,0,0,440,2,372,104,478,918,10713,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,30,2019-07-22,2019-07-28,11756,11129,,136,290,0,0,426,1,354,70,425,851,10273,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,31,2019-07-29,2019-08-04,11309,10733,,86,299,0,0,385,3,291,36,330,715,10013,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,32,2019-08-05,2019-08-11,11678,10911,,55,319,0,0,374,0,274,20,294,668,10238,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,33,2019-08-12,2019-08-18,11471,10752,,58,259,0,0,320,2,211,17,230,550,10201,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,34,2019-08-19,2019-08-25,10016,8856,,49,163,0,0,212,1,136,5,142,354,8496,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,35,2019-08-26,2019-09-01,11081,10449,,72,209,0,0,284,0,135,6,141,425,10022,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,36,2019-09-02,2019-09-08,10430,9137,,80,199,0,0,279,0,92,6,98,377,8758,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,37,2019-09-09,2019-09-15,4127,4127,,47,76,,,123,0,8,2,10,133,3991,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,38,2019-09-16,2019-09-22,5345,5345,,56,80,,,136,0,11,6,17,153,5190,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,39,2019-09-23,2019-09-29,4904,4904,,25,49,,,74,0,14,8,22,96,4807,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,40,2019-09-30,2019-10-06,13003,12407,,51,125,,,192,3,77,2,82,274,4698,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,41,2019-10-07,2019-10-13,4317,14807,,54,175,,,229,0,69,10,79,308,4256,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,42,2019-10-14,2019-10-20,15466,14283,,53,229,,,282,3,67,2,72,354,4231,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,43,2019-10-21,2019-10-27,16376,15267,,73,262,,,335,2,98,9,109,444,4658,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,44,2019-10-28,2019-11-03,16371,15243,,55,395,,,450,0,90,8,98,548,4593,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,45,2019-11-04,2019-11-10,16904,15531,,68,471,,,539,2,132,8,142,681,4699,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,46,2019-11-11,2019-11-17,16953,15686,,82,597,,,679,3,142,1,146,825,4653,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,47,2019-11-18,2019-11-24,18199,16070,,86,913,,,999,2,251,2,255,1254,4698,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,48,2019-11-25,2019-12-01,16467,13395,,93,827,,,920,5,226,1,232,1152,4708,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,49,2019-12-02,2019-12-08,21032,16760,,137,2027,,,2164,1,545,5,551,2715,4683,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,50,2019-12-09,2019-12-15,25307,18799,,194,3240,,,3435,3,848,35,886,4321,5527,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,51,2019-12-16,2019-12-22,5974,19335,,371,4029,,,4402,3,1204,33,1240,5642,5680,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,52,2019-12-23,2019-12-29,26570,18812,,479,4506,,,4985,1,1399,30,1430,6415,5000,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,1,2019-12-30,2020-01-05,22782,19056,,688,4518,,,5206,1,1578,20,1599,6805,5106,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,2,2020-01-06,2020-01-12,22484,20244,,1271,4081,,,5352,8,1707,38,1753,7105,5681,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,3,2020-01-13,2020-01-19,20519,19324,,1444,2941,,,4386,8,1719,62,1789,6175,5179,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,4,2020-01-20,2020-01-26,18936,17974,,1644,1933,,,3578,10,1465,75,1550,5128,5109,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,5,2020-01-27,2020-02-02,16301,15541,,1260,895,,,2155,15,919,52,986,3141,6062,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,6,2020-02-03,2020-02-09,14252,13497,,426,355,,,783,2,447,26,475,1258,5324,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,7,2020-02-10,2020-02-16,4965,11381,,144,158,,,302,0,133,8,141,443,4861,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,8,2020-02-17,2020-02-23,5664,12727,,66,91,,,157,3,51,5,59,216,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,9,2020-02-24,2020-03-01,4966,11111,,48,73,,,121,1,25,3,29,150,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,10,2020-03-02,2020-03-08,4212,12293,,41,31,,,73,2,27,1,30,103,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,11,2020-03-09,2020-03-15,4461,13115,,43,39,,,82,1,37,7,45,127,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,12,2020-03-16,2020-03-22,15161,15029,,41,41,,1,83,0,46,4,50,133,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,13,2020-03-23,2020-03-29,13835,13473,,24,26,,,50,0,21,2,23,73,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,14,2020-03-30,2020-04-05,8705,7975,,9,8,,,17,1,8,2,11,28,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,15,2020-04-06,2020-04-12,9377,8323,,7,10,,,17,1,3,2,6,23,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,16,2020-04-13,2020-04-19,9104,6599,,2,4,,,6,0,1,0,1,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,17,2020-04-20,2020-04-26,9035,8250,,0,3,,1,4,1,2,1,4,8,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,18,2020-04-27,2020-05-03,8161,7187,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,19,2020-05-04,2020-05-10,8985,8253,,2,3,,,5,1,1,0,2,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,20,2020-05-11,2020-05-17,9443,8145,,1,2,,,3,0,4,0,4,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,21,2020-05-18,2020-05-24,8530,6984,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,22,2020-05-25,2020-05-31,1869,6758,,0,1,,,1,0,0,0,0,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,23,2020-06-01,2020-06-07,2230,8449,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,24,2020-06-08,2020-06-14,2101,7645,,3,6,,,9,0,7,0,7,16,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,25,2020-06-15,2020-06-21,9300,8365,,3,0,,,3,0,1,0,1,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,26,2020-06-22,2020-06-28,8764,7896,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,27,2020-06-29,2020-07-05,8660,7927,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,28,2020-07-06,2020-07-12,9701,8833,,1,0,,,1,0,0,0,0,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,29,2020-07-13,2020-07-19,9739,8888,,4,0,,,4,0,0,0,0,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,30,2020-07-20,2020-07-26,9173,8348,,1,7,,,8,0,0,0,0,8,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,31,2020-07-27,2020-08-02,8910,8279,,1,2,,,3,0,1,0,1,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,32,2020-08-03,2020-08-09,8791,8647,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,33,2020-08-10,2020-08-16,8633,8498,,0,0,,,0,0,2,0,2,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,34,2020-08-17,2020-08-23,8774,8618,,0,1,,,1,0,1,0,1,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,35,2020-08-24,2020-08-30,8509,8231,,0,0,,,0,0,1,0,1,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,36,2020-08-31,2020-09-06,8606,7814,,0,0,,,0,1,2,0,3,3,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,37,2020-09-07,2020-09-13,8119,6665,,0,0,,,0,0,3,0,3,3,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,38,2020-09-14,2020-09-20,8656,7588,,0,0,,,0,0,2,0,2,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,39,2020-09-21,2020-09-27,8275,6667,,0,0,,,0,0,1,0,1,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,40,2020-09-28,2020-10-04,10103,9117,,1,0,,1,2,0,3,1,4,6,,Sporadic
+
