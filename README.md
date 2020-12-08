@@ -69,11 +69,7 @@ We then studied the influence of masks to the influenza. We found that the numbe
 In the three countries, the number of new cases decreased to 0 in April, which is 3 months earlier than normal in the US; 
 2 months earlier than normal in UK; and also the earliest month in China among the years we studied. 
 The finding strongly indicates that masks could shorten the duration of influenza, which is a positive evidence to support our hypothesis.
+
 # Conclusion
-- Hypothesis 1:  
-
-  
-- Hypothesis 2:  
-
-  
-- Hypothesis 3:  
+Our outcome supports hypothesis 1 and hypothesis 3. The global flu cases decreases because people are more likely to wear masks during pandemics. Moreover, the peak of the flu would delay because people are wearing masks.  
+However, our result does not support our hypothesis, countries where COVID-19 cases are decreasing supposed to increase flu cases because people are optimistic with the pandemic and tend to not wear masks. From our research, the flu cases in China didn't increase even the pandemic is abating. It might be people are more aware of the situation and remain wearing mask even the pandemic isn't serious now.
