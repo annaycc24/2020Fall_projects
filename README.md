@@ -70,10 +70,8 @@ From the plot based on China’s influenza and COVID data in 2020, we can see th
 It may because people are still aware of the pandemic outside their country.  
   
 - Hypothesis 3:  
-We used the data from UK, US and China from 2015-2020. We found that we cannot 
-study the peak month since the peak occurs in winter but we do not have these data for the year of 2020.
-We then studied  the influence of masks to the influenza, we compared the number of influenza cases
-among the historical data. We found that the number of cases decreases earlier with masks in 2020. In the three countries, the number of 
-new cases decreased to 0 in April,  which is 3 months earlier than normal in the US; 2 months earlier 
-than normal in UK; and also the earliest month in China among the years we studied.  The finding strongly indicates 
-that masks could shorten the duration of influenza, which is a positive evidence to support our hypothesis.
+We found that we cannot study the possible delay of the peak month since the peak occurs in winter but we do not have these data for the year of 2020.
+We then studied the influence of masks to the influenza. We found that the number of cases decreses eariler with masks in 2020. 
+In the three countries, the number of new cases decreased to 0 in April, which is 3 months earlier than normal in the US; 
+2 months earlier than normal in UK; and also the earliest month in China among the years we studied. 
+The finding strongly indicates that masks could shorten the duration of influenza, which is a positive evidence to support our hypothesis.
