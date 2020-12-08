@@ -41,6 +41,6 @@ https://apps.who.int/flumart/Default?ReportNo=12
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
   
 # Research Methods
-
+![Screenshot](h1_UK_20.png)
 
 # Conclusion
