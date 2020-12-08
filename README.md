@@ -41,7 +41,7 @@ https://apps.who.int/flumart/Default?ReportNo=12
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
   
 # Research Methods
-Hypothesis 1
+Hypothesis 1  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true" width="450" />
@@ -49,7 +49,7 @@ Hypothesis 1
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true" width="450" />
 
-Hypothesis 2
+Hypothesis 2  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_US_20.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_UK_20.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_C_20.png?raw=true" width="450" />
