@@ -26,7 +26,9 @@ https://trends.google.com/trends/explore?date=2019-01-01%202020-10-27&geo=CN&q=%
 the google trend of mask in UK  
 https://trends.google.com/trends/explore?date=2019-01-01%202020-10-27&geo=GB&q=mask  
 the influenza data of US,UK and China between 2015-2020  
-https://apps.who.int/flumart/Default?ReportNo=12   
+https://apps.who.int/flumart/Default?ReportNo=12  
+the daily number of new reported cases of COVID-19 by country worldwide
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
   
 # Research Methods
 
