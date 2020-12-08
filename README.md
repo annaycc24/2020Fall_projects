@@ -42,9 +42,22 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
   
 # Research Methods
 Hypothesis 1
-![alt text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_19.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_20.png?raw=true)
+![alt text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true)
 ![alt text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true)
 
+Hypothesis 2
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_US_20.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_UK_20.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_C_20.png?raw=true)
+
+Hypothesis 3  
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_US.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_UK.png?raw=true)
+![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_C.png?raw=true)
 # Conclusion
 - Hypothesis 1:  
 The flu cases from each country during the pandemic are lower than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
