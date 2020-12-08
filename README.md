@@ -43,7 +43,7 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 # Research Methods
 Hypothesis 1  
 <center class="half">
-    <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="300" /> <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true" width="300" />
+    <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="300" align = left><img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true" width="300" align = right>
 </center>  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_20.png?raw=true" width="450" />
