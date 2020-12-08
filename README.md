@@ -58,6 +58,8 @@ Hypothesis 3
 ![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_US.png?raw=true)
 ![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_UK.png?raw=true)
 ![alt_text](https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_C.png?raw=true)
+
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_C.png?raw=true" width="200" />
 # Conclusion
 - Hypothesis 1:  
 The flu cases from each country during the pandemic are lower than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
