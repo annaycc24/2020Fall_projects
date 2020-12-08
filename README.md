@@ -19,7 +19,15 @@ During the covid-19 pandemic, wearing a mask is recommended or required in many 
 3)
 
 # Data Source
-
+the google trend of mask in the US  
+https://trends.google.com/trends/explore?date=2019-01-01%202020-10-27&geo=US&q=mask  
+the google trend of mask(口罩) in China  
+https://trends.google.com/trends/explore?date=2019-01-01%202020-10-27&geo=CN&q=%E5%8F%A3%E7%BD%A9  
+the google trend of mask in UK  
+https://trends.google.com/trends/explore?date=2019-01-01%202020-10-27&geo=GB&q=mask  
+the influenza data of US,UK and China between 2015-2020  
+https://apps.who.int/flumart/Default?ReportNo=12   
+  
 # Research Methods
 
 # Conclusion
