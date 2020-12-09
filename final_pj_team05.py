@@ -35,15 +35,18 @@ def get_covid_cases(country_name: str, data) -> pd.Series:
     Get the new covid cases of each month in a given country's data.
     :param country_name: a string of a country name
     :return: a Pandas Series contained year-month and the sum of the new cases
-    >>> df1 = pd.DataFrame([[pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [23]})), 3, "US"], \
-    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [24]})), 6, "US"], \
-    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [7], 'day': [23]})), 5, "US"], \
-    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [23]})), 10, "CN"]], \
-    columns=['dateRep', 'cases', 'countriesAndTerritories'])
-    >>> df1.to_excel("test.xlsx", index = False)
+        >>> df = pd.DataFrame({'year': [2020, 2020, 2020, 2020],\
+                   'month': [8, 8, 7, 5],\
+                   'day': [4, 5, 23, 7]})
+    >>> df1 = pd.to_datetime(df)
+    >>> df2 = pd.DataFrame({"dateRep": df1, "cases": [3, 6, 5, 23], "countriesAndTerritories": ["China", "China", "China", "United_Kingdom"]})
+    >>> df2.to_excel("test.xlsx", index = False)
     >>> d = pd.read_excel('test.xlsx')
-    >>> get_covid_cases("US", d).values[0]
-    5
+    >>> get_covid_cases("China", d)
+    yearmonth
+    2020-07-01    5
+    2020-08-01    9
+    Name: cases, dtype: int64
     """
 
     if country_name == "US":
