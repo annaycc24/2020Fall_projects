@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
 # data source:
 # TODO: function to read csv
 # put csv in "__init__ main" to execute
@@ -97,6 +98,10 @@ def get_mask_search_trend_by_month(file: pd.DataFrame) -> pd.Series:
     >>> df = pd.DataFrame(d)
     >>> get_mask_search_trend_by_month(df)['2020-11-01']
     0.5125
+    >>> d = {"Date": ['2020-11-01', '2020-10-08', '2020-10-15', '2020-11-22'], "mask_interested_in_percentage": (0.65, 0.5, 0.7, 0.2)}
+    >>> df = pd.DataFrame(d)
+    >>> round(get_mask_search_trend_by_month(df)['2020-11-01'], 3)
+    0.425
     """
 
     file["yearmonth"] = pd.to_datetime(file["Date"]).map(lambda dt: dt.replace(day=1))
@@ -105,6 +110,7 @@ def get_mask_search_trend_by_month(file: pd.DataFrame) -> pd.Series:
 
 # aggregrate everything by country
 # columns: year, month, mask, flu, covid
+
 def aggregrate_data(flu_data: pd.Series, mask_data: pd.Series, covid_cases:pd.Series, country_name: str) -> pd.DataFrame:
     """
     Combine all the data we need in a new data frame
@@ -113,8 +119,9 @@ def aggregrate_data(flu_data: pd.Series, mask_data: pd.Series, covid_cases:pd.Se
     :param: covid_cases: covid cases we got, which are grouped by year and month
     :param country_name: name of the country indicating which data we are going to use
     :return: a new data frame with all the useful data we need
+
     """
-    merge = pd.concat([flu_data, mask_data, covid_cases], axis = 1).reset_index()
+    merge = pd.concat([flu_data, mask_data, covid_cases], axis=1).reset_index()
     merge["year"] = merge["yearmonth"].dt.year
     merge["month"] = merge["yearmonth"].dt.month
     merge["country"] = country_name
