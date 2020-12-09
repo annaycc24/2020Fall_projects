@@ -11,6 +11,8 @@ def load_flu_file(file: str) -> pd.DataFrame:
     Load flu data
     :param file: the name of the file
     :return: a flu data in a data frame format
+    >>> load_flu_file(test)
+
     """
     flu_df = pd.read_csv(file, header = 2)
     # print(flu_df)
