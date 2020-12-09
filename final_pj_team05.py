@@ -35,7 +35,7 @@ def get_covid_cases(country_name: str, data) -> pd.Series:
     Get the new covid cases of each month in a given country's data.
     :param country_name: a string of a country name
     :return: a Pandas Series contained year-month and the sum of the new cases
-        >>> df = pd.DataFrame({'year': [2020, 2020, 2020, 2020],\
+    >>> df = pd.DataFrame({'year': [2020, 2020, 2020, 2020],\
                    'month': [8, 8, 7, 5],\
                    'day': [4, 5, 23, 7]})
     >>> df1 = pd.to_datetime(df)
