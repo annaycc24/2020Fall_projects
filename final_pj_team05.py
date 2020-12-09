@@ -115,6 +115,7 @@ def extract_info(country: str, data) -> pd.DataFrame:
     """
     Extract useful information from a given country name
     :param country: country name that we want to get data from
+    :param data: the covid data we need
     :return: a new data frame with all the useful data we need
     """
     flu = "FluNetInteractiveReport_" + country + ".csv"
@@ -137,8 +138,19 @@ def separate_data(data, year: int) -> pd.DataFrame:
     :param data: indicateing which country's data we want to separate
     :param year: indicateing we need the data from which year
     :return: a new data frame from a given year
-    >>> separate_data(us, 2020).values[1][0]
+    >>> d = {"year": [2019, 2020], "country": ["US", "US"], "cases": [12, 34]}
+    >>> df = pd.DataFrame(d)
+    >>> separate_data(df, 2020)["year"][1]
     2020
+    >>> separate_data(df, 2019)
+       year country  cases
+    0  2019      US     12
+    >>> d = {"year": [2018, 2020, 2020], "country": ["UK", "UK", "UK"], "cases": [10, 24, 3]}
+    >>> df = pd.DataFrame(d)
+    >>> separate_data(df, 2020)
+       year country  cases
+    1  2020      UK     24
+    2  2020      UK      3
     """
 
     data_new = data.loc[data["year"] == year]
