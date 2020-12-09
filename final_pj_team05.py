@@ -11,6 +11,11 @@ def load_flu_file(file: str) -> pd.DataFrame:
     Load flu data
     :param file: the name of the file
     :return: a flu data in a data frame format
+    >>> load_flu_file("test1.csv")
+         test1 test1.1
+    0  Country    Year
+    1       US    2020
+
     """
     flu_df = pd.read_csv(file, header = 2)
     # print(flu_df)
@@ -24,6 +29,11 @@ def load_mask_file(file: str) -> pd.DataFrame:
     Load mask search trend data
     :param file: the name of the file
     :return: a mask search trend data in a data frame format
+    >>> load_mask_file('test1.csv')
+          Date mask_interested_in_percentage
+    0    test1                         test1
+    1  Country                          Year
+    2       US                          2020
     """
     new_header = ['Date', 'mask_interested_in_percentage']
     mask_df = pd.read_csv(file, header = 1, names = new_header)

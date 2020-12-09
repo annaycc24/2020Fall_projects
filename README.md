@@ -51,7 +51,7 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true" width="450" />
   
-The flu cases from each country during the pandemic are lower than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
+The flu cases from each country during the pandemic are less than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
 In 2020, although they still seem like related to the weather, we can check the flu cases in the beginning of the year.
 Apparently, when the mask searching trend goes up, the flu cases decrease obviously.  
 ### Hypothesis 2  
