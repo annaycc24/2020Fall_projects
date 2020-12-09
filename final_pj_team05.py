@@ -35,12 +35,15 @@ def get_covid_cases(country_name: str, data) -> pd.Series:
     Get the new covid cases of each month in a given country's data.
     :param country_name: a string of a country name
     :return: a Pandas Series contained year-month and the sum of the new cases
-    >>> get_covid_cases("US", covid).values[11]
-    3199482
-    >>> get_covid_cases("US", covid).values[1]
-    6
-    >>> get_covid_cases("UK", covid).values[11]
-    522300
+    >>> df1 = pd.DataFrame([[pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [23]})), 3, "US"], \
+    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [24]})), 6, "US"], \
+    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [7], 'day': [23]})), 5, "US"], \
+    [pd.to_datetime(pd.DataFrame({"year": [2020], 'month': [8], 'day': [23]})), 10, "CN"]], \
+    columns=['dateRep', 'cases', 'countriesAndTerritories'])
+    >>> df1.to_excel("test.xlsx", index = False)
+    >>> d = pd.read_excel('test.xlsx')
+    >>> get_covid_cases("US", d).values[0]
+    5
     """
 
     if country_name == "US":
