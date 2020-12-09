@@ -29,7 +29,7 @@ def load_mask_file(file: str) -> pd.DataFrame:
     Load mask search trend data
     :param file: the name of the file
     :return: a mask search trend data in a data frame format
-    >>> load_mask_file('test2.csv')
+    >>> load_mask_file('test1.csv')
           Date mask_interested_in_percentage
     0    test1                         test1
     1  Country                          Year
