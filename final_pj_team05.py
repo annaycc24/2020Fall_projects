@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
-from datetime import date
 import matplotlib.pyplot as plt
-import doctest
 # data source:
 # TODO: function to read csv
 # put csv in "__init__ main" to execute
@@ -95,6 +93,10 @@ def get_mask_search_trend_by_month(file: pd.DataFrame) -> pd.Series:
     Get the mean mask search trend of every month
     :param file: file of the mask search trend data
     :return: a Pandas Series contained year-month and the mean of the mask search trend by month
+    >>> d = {"Date": ['2020-11-01', '2020-11-08', '2020-11-15', '2020-11-22'], "mask_interested_in_percentage": (0.65, 0.5, 0.7, 0.2)}
+    >>> df = pd.DataFrame(d)
+    >>> get_mask_search_trend_by_month(df)['2020-11-01']
+    0.5125
     """
 
     file["yearmonth"] = pd.to_datetime(file["Date"]).map(lambda dt: dt.replace(day=1))
