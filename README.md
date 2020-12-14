@@ -56,11 +56,11 @@ The total flu cases in 2020 in the US is 228600.
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true" width="450" />  
 The total flu cases in 2019 in China is 122757.  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_20.png?raw=true" width="450" />  
-The total flu cases in 2019 in China is 31051.  
+The total flu cases in 2020 in China is 31051.  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true" width="450" />  
 The total flu cases in 2019 in UK is 42447.  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true" width="450" />  
-The total flu cases in 2019 in China is 14046.  
+The total flu cases in 2020 in UK is 14046.  
   
   
 ### Hypothesis 2
