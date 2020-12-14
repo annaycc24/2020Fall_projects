@@ -44,12 +44,18 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
   
 # Research Methods
 ### Hypothesis 1  
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="450" />
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true" width="450" />
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true" width="450" />
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_20.png?raw=true" width="450" />
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true" width="450" />
-<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true" width="450" />
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="450" />  
+The total flu cases in 2019 in the US is 268524.  
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_20.png?raw=true" width="450" />  
+The total flu cases in 2020 in the US is 228600.  
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_19.png?raw=true" width="450" />  
+The total flu cases in 2019 in China is 122757.  
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_C_20.png?raw=true" width="450" />  
+The total flu cases in 2019 in China is 31051.  
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_UK_19.png?raw=true" width="450" />  
+The total flu cases in 2019 in UK is 42447.  
+<img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/%20h1_UK_20.png?raw=true" width="450" />  
+The total flu cases in 2019 in China is 14046.  
   
 The flu cases from each country during the pandemic are less than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
 In 2020, although they still seem like related to the weather, we can check the flu cases in the beginning of the year.
