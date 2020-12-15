@@ -49,9 +49,7 @@ def get_covid_cases(country_name: str, data) -> pd.Series:
                    'day': [4, 5, 23, 7]})
     >>> df1 = pd.to_datetime(df)
     >>> df2 = pd.DataFrame({"dateRep": df1, "cases": [3, 6, 5, 23], "countriesAndTerritories": ["China", "China", "China", "United_Kingdom"]})
-    >>> df2.to_excel("test.xlsx", index = False)
-    >>> d = pd.read_excel('test.xlsx')
-    >>> get_covid_cases("China", d)
+    >>> get_covid_cases("China", df2)
     yearmonth
     2020-07-01    5
     2020-08-01    9
