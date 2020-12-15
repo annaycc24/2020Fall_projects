@@ -86,5 +86,5 @@ The finding strongly indicates that masks could shorten the duration of influenz
 
 
 # Conclusion
-Our outcome supports hypothesis 1 and hypothesis 3. The global flu cases decreases because people are more likely to wear masks during pandemics. Moreover, the peak of the flu would delay because people are wearing masks.  
+Our outcome supports hypothesis 1 and hypothesis 3. The global flu cases decreases because people are more likely to wear masks during pandemic. Moreover, the peak of the flu would delay because people are wearing masks.  
 However, our result does not support our hypothesis, countries where COVID-19 cases are decreasing supposed to increase flu cases because people are optimistic with the pandemic and tend to not wear masks. From our research, the flu cases in China didn't increase even the pandemic is abating. It might be people are more aware of the situation and remain wearing mask even the pandemic isn't serious now.
