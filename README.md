@@ -94,7 +94,7 @@ In the UK, it is 2 months earlier than normal.
 It is also the earliest month in China in the recent 5 years.     
 
 The finding strongly indicates that masks could shorten the duration of influenza, 
-which provides positive evidence to support our hypothesis 3.
+which provides positive evidence to support our hypothesis 3.  
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_US.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_UK.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_C.png?raw=true" width="450" />
