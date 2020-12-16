@@ -276,7 +276,7 @@ if __name__ == "__main__":
 
     covid = pd.read_excel('data/COVID-19-worldwide.xlsx')
     # covid.groupby(["year", "month"]).sum()["cases"]
-    china = extract_info("China", covid)
+    china = extract_info("China", covid) 
     us = extract_info("US", covid)
     uk = extract_info("UK", covid)
 

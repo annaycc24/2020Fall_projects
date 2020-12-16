@@ -45,9 +45,17 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 # Research Methods
 ### Hypothesis 1 
 Analysis:  
-The flu cases from each country during the pandemic are less than the previous year. In the previous year, the mask search trend did not change a lot, so the flu cases were more related to the weather.
-In 2020, although they still seem like related to the weather, we can check the flu cases in the beginning of the year.
-Apparently, when the mask searching trend goes up, the flu cases decrease obviously.
+The amount of flu cases for each country during the pandemic is much less than the previous year.  
+ 
+In the US, the mask search trend keeps low in 2019, and the flu cases surged during the
+first 3 months. In 2020, the peak occurred in February and decreased dramatically with the mask trend going up.  
+ 
+In China, the number of flu cases generally decreased during the first 3 quarters due to higher temperature and the mask trend is extremely low. In 2020, the cases decreased at the beginning of the year with a high mask trend.  
+
+In the UK, the number of flu cases shows a similar pattern to the US in 2019. In 2020, with the mask trend keeping high, the flu cases decreased at the beginning of the year and got nearly 0 in April. 
+
+The result shows that the masks have great effects on reducing the cases of influenza in 2020.
+
 
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h1_US_19.png?raw=true" width="450" />  
 The total flu cases in 2019 in the US is 268524.  
@@ -65,8 +73,11 @@ The total flu cases in 2020 in UK is 14046.
   
 ### Hypothesis 2
 Analysis:  
-From the plot based on China’s influenza and COVID data in 2020, we can see that although the COVID-19 is abating, the influenza case does not increase.
-It may because people are still aware of the pandemic outside their country.   
+From the graphs, we can see that although the COVID-19 is abating in China, the influenza case does not increase even in November 2020 
+when the temperature is pretty low. It may be that people are aware of the pandemic outside their country and they still wear masks. For the US and the UK, masks are 
+still required in the public area due to the pandemic.
+
+We can not prove the hypothesis 2 is true.   
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_US_20.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_UK_20.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h2_C_20.png?raw=true" width="450" />  
@@ -74,11 +85,15 @@ It may because people are still aware of the pandemic outside their country.
  
 ### Hypothesis 3  
 Analysis:  
-We found that we cannot study the possible delay of the peak month since the peak occurs in winter but we do not have these data for the year of 2020.
-We then studied the influence of masks to the influenza. We found that the number of cases decreses eariler with masks in 2020. 
-In the three countries, the number of new cases decreased to 0 in April, which is 3 months earlier than normal in the US; 
-2 months earlier than normal in UK; and also the earliest month in China among the years we studied. 
-The finding strongly indicates that masks could shorten the duration of influenza, which is a positive evidence to support our hypothesis.
+We then studied the influence of masks on the duration of influenza. We found that the number of cases decreases earlier with masks in 2020. 
+In the three countries, the number of new cases decreased to 0 in April.   
+In the US, it is 3 months earlier than normal.  
+
+In the UK, it is 2 months earlier than normal.  
+
+It is also the earliest month in China in the recent 5 years.     
+
+The finding strongly indicates that masks could shorten the duration of influenza, which provides positive evidence to support our hypothesis 3.
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_US.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_UK.png?raw=true" width="450" />
 <img src="https://github.com/yihsuanliao/2020Fall_projects/blob/main/plot/h3_C.png?raw=true" width="450" />
@@ -86,5 +101,6 @@ The finding strongly indicates that masks could shorten the duration of influenz
 
 
 # Conclusion
-Our outcome supports hypothesis 1 and hypothesis 3. The global flu cases decreases because people are more likely to wear masks during pandemic. Moreover, the peak of the flu would delay because people are wearing masks.  
-However, our result does not support our hypothesis, countries where COVID-19 cases are decreasing supposed to increase flu cases because people are optimistic with the pandemic and tend to not wear masks. From our research, the flu cases in China didn't increase even the pandemic is abating. It might be people are more aware of the situation and remain wearing mask even the pandemic isn't serious now.
+Our outcome supports hypothesis 1 and has strong evidence for hypothesis 3. The global flu cases decrease because people are more likely to wear masks during the pandemic. Moreover, the peak of the flu would delay because people wear masks.  
+
+However, our result does not support our hypothesis 2. What we expected is that the countries with only a few new cases each day would have an increase of flu cases because people are optimistic about the pandemic and tend to not wear masks. From our research, the flu cases in China didn't increase even the pandemic is abating. It might be people are more aware of the situation and remain wearing masks even the pandemic isn't serious now.
